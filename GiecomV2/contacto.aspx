@@ -14,7 +14,7 @@
     <!DOCTYPE HTML>
 <html>
 <head>
-<title>Learner a education bootstrap Website Template | Contact :: w3layouts</title>
+
 <!-- Bootstrap -->
 <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
@@ -97,35 +97,33 @@
         <div class="container">
             <div class="main row">
                 <div class="col-md-4 company_ad">
-                    <h2>find Address :</h2>
+                    <h2>Nuestra Direccion:</h2>
                     <address>
-                        <p>500 Lorem Ipsum Dolor Sit,</p>
-                        <p>22-56-2-9 Sit Amet, Lorem,</p>
-                        <%--<p>USA</p>--%>
-                        <p>Phone:(00) 222 666 444</p>
-                        <p>Fax: (000) 000 00 00 0</p>
-                        <p>Email: <a href="mailto:info@mycompany.com">info(at)mycompany.com</a></p>
-                        <p>Follow on: <a href="#">Facebook</a>, <a href="#">Twitter</a></p>
+                        <p> Campus Porvenir - Universidad de la Amazonia Florencia, Caquetá</p>
+                        <p>Telefono:+57 3108621408</p>
+                        <p>Email: <a href="mailto:giecom@uniamazonia.edu.co">giecom@uniamazonia.edu.co</a></p>
                     </address>
                 </div>
                 <div class="col-md-8">
                     <div class="contact-form">
-                        <h2>Contact Us</h2>
+                        <h2>Contáctenos<h2>
+                      <span>Estamos dispuestos a trabajar en conjunto y apoyar la investigación</span>
+                             <br />
                         <form method="post" action="contact-post.html">
                             <div>
-                                <span>name</span>
+                                <span>Nombre:</span>
                                 <span>
-                                    <input type="username" class="form-control" id="userName"></span>
+                                    <input type="username" class="form-control" id="userName" required ></span>
                             </div>
                             <div>
-                                <span>e-mail</span>
+                                <span>Correo Electrónico:</span>
                                 <span>
-                                    <input type="email" class="form-control" id="inputEmail3"></span>
+                                    <input type="email" class="form-control" id="inputEmail3" required ></span>
                             </div>
                             <div>
-                                <span>subject</span>
+                                <span>Mensaje:</span>
                                 <span>
-                                    <textarea name="userMsg"> </textarea></span>
+                                    <textarea name="userMsg" required > </textarea></span>
                             </div>
                             <div>
                                 <label class="fa-btn btn-1 btn-1e">
@@ -143,7 +141,7 @@
         <div class="container">
             <div class="row  footer">
                 <div class="copy text-center">
-               	<p class="link"><span>&#169; All rights reserved | Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
+               	<p class="link"><span>&#169; 2017 | Giecom - Universidad de la Amazonia. Todos los derechos reservados. Equipo de Desarrollo de Software| Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
 			 </div>
             </div>
         </div>

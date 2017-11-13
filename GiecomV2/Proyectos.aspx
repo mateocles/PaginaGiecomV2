@@ -85,8 +85,37 @@
 	<div class="container">
 		<div class="main row">
 			<div class="col-md-8 blog_left">
-				<h4><a href="single-page.html">RQSOFT </a></h4>
-               <a href="single-page.html"><img src="images/proyectos/sw/rqsoftV2.png" alt="" class="blog_img img-responsive"/></a>
+                
+                <h4><a href="http://191.102.85.226/estacion/index.aspx">Estacion Meteriologica</a></h4>
+               <a href="http://191.102.85.226/estacion/index.aspx"><img src="images/proyectos/sw/Temp.PNG" alt="" class="blog_img img-responsive"/></a>
+				<div class="blog_list">
+					  <ul class="list-unstyled">
+						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
+						<li><a href="#"><i class="fa fa-comment"></i><span>Comments</span></a></li>
+				  		<li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+				  		<li><a href="#"><i class="fa fa-eye"></i><span>124 views</span></a></li>
+					  </ul>
+				</div>
+				<p class="para">La estación meteorológica está ubicada en el laboratorio de GIECOM presente en el bloque II, salón “2112” y captura los valores aproximados de Temperatura (°C), Humedad Relativa (%), Presión Atmosférica (atm), Monóxido de Carbono (ppm) y Altura sobre el nivel del mar (msnm).</p>
+				
+                <br />
+
+                <h4><a href="http://191.102.85.226/sigepi/default.aspx">SIGEPI</a></h4>
+               <a href="http://191.102.85.226/sigepi/default.aspx"><img src="images/proyectos/sw/sigepi.jpg" alt="" class="blog_img img-responsive"/></a>
+				<div class="blog_list">
+					  <ul class="list-unstyled">
+						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
+						<li><a href="#"><i class="fa fa-comment"></i><span>Comments</span></a></li>
+				  		<li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+				  		<li><a href="#"><i class="fa fa-eye"></i><span>124 views</span></a></li>
+					  </ul>
+				</div>
+				<p class="para">El objetivo principal de SIGEPI es gestionar los procesos de convocatorias, evaluación y seguimiento de los proyectos de investigación, y definir una serie de indicadores para su ejecución y control.</p>
+				
+          <br />
+
+				<h4><a href="http://191.102.85.226/rqsoft/index.html">RQSOFT </a></h4>
+               <a href="http://191.102.85.226/rqsoft/index.html"><img src="images/proyectos/sw/rqsoftV2.png" alt="" class="blog_img img-responsive"/></a>
 				<div class="blog_list">
 					  <ul class="list-unstyled">
 						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
@@ -97,6 +126,7 @@
 				</div>
 				<p class="para">Software para la Elicitación de requerimientos de Desarrollo de Sofwtare</p>
 				
+                          <br />
 
 				<h4 align="justify"><a href="single-page.html">Prototipo de un sistema para la gestión de los procesos electorales de la Universidad de la Amazonia</a></h4>
 				<a href="single-page.html"><img src="images/blog_pic2.jpg" alt="" class="blog_img img-responsive"/></a>
@@ -111,132 +141,15 @@
 				<p class="para">Electoral</p>
 			
 			</div>
-			<div class="col-md-4 blog_right">
-					<%--<!-- start social_network_likes -->
-				<div class="social_network_likes">
-				      		 <ul class="list-unstyled">
-				      		 	<li><a href="#" class="tweets"><div class="followers"><p><span>2k</span>Followers</p></div><div class="social_network"><i class="twitter-icon"> </i> </div></a></li>
-				      			<li><a href="#" class="facebook-followers"><div class="followers"><p><span>5k</span>Followers</p></div><div class="social_network"><i class="facebook-icon"> </i> </div></a></li>
-				      			<li><a href="#" class="email"><div class="followers"><p><span>7.5k</span>members</p></div><div class="social_network"><i class="email-icon"> </i></div> </a></li>
-				      			<li><a href="#" class="dribble"><div class="followers"><p><span>10k</span>Followers</p></div><div class="social_network"><i class="dribble-icon"> </i></div></a></li>
-				      			<div class="clear"> </div>
-				    		</ul>
-		          	</div>
-				<ul class="ads_nav list-unstyled">
-					<h4>Ads 125 x 125</h4>
-						<li><a href="#"><img src="images/ads_pic.jpg" alt=""> </a></li>
-						<li><a href="#"><img src="images/ads_pic.jpg" alt=""> </a></li>
-						<li><a href="#"><img src="images/ads_pic.jpg" alt=""> </a></li>
-						<li><a href="#"><img src="images/ads_pic.jpg" alt=""> </a></li>
-					<div class="clearfix"></div>
-				</ul>
-				<ul class="tag_nav list-unstyled">
-					<h4>tags</h4>
-						<li class="active"><a href="#">art</a></li>
-						<li><a href="#">awesome</a></li>
-						<li><a href="#">classic</a></li>
-						<li><a href="#">photo</a></li>
-						<li><a href="#">wordpress</a></li>
-						<li><a href="#">videos</a></li>
-						<li><a href="#">standard</a></li>
-						<li><a href="#">gaming</a></li>
-						<li><a href="#">photo</a></li>
-						<li><a href="#">music</a></li>
-						<li><a href="#">data</a></li>
-						<div class="clearfix"></div>
-				</ul>
-			<%--	<div class="news_letter">
-					<h4>news letter</h4>
-						<form>
-							<span><input type="text" placeholder="Your email address"></span>
-							<span  class="pull-right fa-btn btn-1 btn-1e"><input type="submit" value="subscribe"></span>
-						</form>
-				</div>-<%---%>
 			</div>
-			<div class="clearfix"></div>
-		</div>
-	</div>
-</div><!-- end main -->
-
-
-   <%-- <div class="main_bg">
-        <!-- start main -->
-        <div class="container">
-            <div class="technology row">
-                <h2>our technologies</h2>
-                <div class="technology_list">
-                    <h4>1. There are many variations of passages of Lorem Ipsum available?</h4>
-                    <div class="col-md-10 tech_para">
-                        <p class="para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    </div>
-                    <div class="col-md-2 images_1_of_4 bg1 pull-right">
-                        <span class="bg"><i class="fa fa-files-o"></i></span>
-                    </div>
-                    <div class="clearfix"></div>
-                    <div class="read_more">
-                        <a href="single-page.html" class="fa-btn btn-1 btn-1e">read more</a>
-                    </div>
-                </div>
-                <div class="technology_list1">
-                    <h4>2. Lorem Ipsum is simply dummy text of the printing and typesetting industry?</h4>
-                    <div class="col-md-10 tech_para">
-                        <p class="para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    </div>
-                    <div class="col-md-2 images_1_of_4 bg1">
-                        <span class="bg"><i class="fa fa-laptop"></i></span>
-                    </div>
-                    <div class="clearfix"></div>
-                    <div class="read_more">
-                        <a href="single-page.html" class="fa-btn btn-1 btn-1e">read more</a>
-                    </div>
-                </div>
-                <div class="technology_list1">
-                    <h4>3. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium?</h4>
-                    <div class="col-md-10 tech_para">
-                        <p class="para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    </div>
-                    <div class="col-md-2 images_1_of_4 bg1">
-                        <span class="bg"><i class="fa fa-cog"></i></span>
-                    </div>
-                    <div class="clearfix"></div>
-                    <div class="read_more">
-                        <a href="single-page.html" class="fa-btn btn-1 btn-1e">read more</a>
-                    </div>
-                </div>
-                <div class="technology_list1">
-                    <h4>4. There are many variations of passages of Lorem Ipsum available ?</h4>
-                    <div class="col-md-10 tech_para">
-                        <p class="para">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    </div>
-                    <div class="col-md-2 images_1_of_4 bg1">
-                        <span class="bg"><i class="fa fa-files-o"></i></span>
-                    </div>
-                    <div class="clearfix"></div>
-                    <div class="read_more">
-                        <a href="single-page.html" class="fa-btn btn-1 btn-1e">read more</a>
-                    </div>
-                </div>
-                <ul class="pagination">
-                    <li><a href="#">&laquo;</a></li>
-                    <li><a href="#">1</a></li>
-                    <li><a href="#">2</a></li>
-                    <li><a href="#">3</a></li>
-                    <li><a href="#">4</a></li>
-                    <li><a href="#">5</a></li>
-                    <li><a href="#">&raquo;</a></li>
-                </ul>
-                <div class="alert alert-warning alert-dismissable">
-                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                    <strong>Warning!</strong> Better check yourself, you're not looking too good.
-                </div>
-            </div>
+        </div>	
         </div>
-    </div><!-- end main -->--%>
+    
 <div class="footer_bg"><!-- start footer -->
 	<div class="container">
 		<div class="row  footer">
 			<div class="copy text-center">
-				<p class="link"><span>&#169; All rights reserved | Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
+		               	<p class="link"><span>&#169; 2017 | Giecom - Universidad de la Amazonia. Todos los derechos reservados. Equipo de Desarrollo de Software| Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
 			</div>
 		</div>
 	</div>

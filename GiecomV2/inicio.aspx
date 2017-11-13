@@ -88,6 +88,7 @@
 		<div class="logo navbar-left">
             <br />
             <br />
+             <br />
             <img src="images/logos/LOGO_GIECOM.png" />
 		</div>
 		
@@ -205,7 +206,7 @@
                </div>
                 <div class="col-md-6 content_right">
                     <h4>¿QUIÉNES SOMOS?</h4>
-                    <p class="para" align="justify">La fecha de creacion del grupo de investigacion fue en el Año 2007, por el cual se adquirio unas unidades Académicas a la facultad de Ingeniería y su programa Ingeniería de Sistemas. Sus Líneas de Investigación estan bien definidas como son la Inteligencia Artificial y el Desarrollo de Software.</p>
+                    <p class="para" align="justify">La fecha de creacion del grupo de investigacion fue en el Año 2007, por el cual se adquirio unas unidades Académicas a la facultad de Ingeniería y su programa Ingeniería de Sistemas. Sus Líneas de Investigación estan bien definidas como son la Inteligencia Artificial, el Desarrollo de Software y en el área de control.</p>
                 </div>
             </div>
 			
@@ -215,7 +216,7 @@
 	<div class="container">
 		<div class="row  footer">
 			<div class="copy text-center">
-				<p class="link"><span>&#169; All rights reserved | Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
+	               	<p class="link"><span>&#169; 2017 | Giecom - Universidad de la Amazonia. Todos los derechos reservados. Equipo de Desarrollo de Software| Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
 			</div>
 		</div>
 	</div>
