@@ -164,7 +164,7 @@
 	<div class="container">
 		<div class="row  footer">
 			<div class="copy text-center">
-				<p class="link"><span>&#169; All rights reserved | Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
+		               	<p class="link"><span>&#169; 2017 | Giecom - Universidad de la Amazonia. Todos los derechos reservados. Equipo de Desarrollo de Software| Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
 			</div>
 		</div>
 	</div>

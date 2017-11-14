@@ -78,29 +78,16 @@
 			</ul>	
 		</div>
 	</div>
-	<div class="clearfix"></div>
+
 </div>
 </div>
+
     <div class="main_bg"><!-- start main -->
 	<div class="container">
 		<div class="main row">
 			<div class="col-md-8 blog_left">
                 
-                <h4><a href="http://191.102.85.226/estacion/index.aspx">Estacion Meteriologica</a></h4>
-               <a href="http://191.102.85.226/estacion/index.aspx"><img src="images/proyectos/sw/Temp.PNG" alt="" class="blog_img img-responsive"/></a>
-				<div class="blog_list">
-					  <ul class="list-unstyled">
-						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
-						<li><a href="#"><i class="fa fa-comment"></i><span>Comments</span></a></li>
-				  		<li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
-				  		<li><a href="#"><i class="fa fa-eye"></i><span>124 views</span></a></li>
-					  </ul>
-				</div>
-				<p class="para">La estación meteorológica está ubicada en el laboratorio de GIECOM presente en el bloque II, salón “2112” y captura los valores aproximados de Temperatura (°C), Humedad Relativa (%), Presión Atmosférica (atm), Monóxido de Carbono (ppm) y Altura sobre el nivel del mar (msnm).</p>
-				
-                <br />
-
-                <h4><a href="http://191.102.85.226/sigepi/default.aspx">SIGEPI</a></h4>
+                  <h4><a href="http://191.102.85.226/sigepi/default.aspx">SIGEPI</a></h4>
                <a href="http://191.102.85.226/sigepi/default.aspx"><img src="images/proyectos/sw/sigepi.jpg" alt="" class="blog_img img-responsive"/></a>
 				<div class="blog_list">
 					  <ul class="list-unstyled">
@@ -113,7 +100,8 @@
 				<p class="para">El objetivo principal de SIGEPI es gestionar los procesos de convocatorias, evaluación y seguimiento de los proyectos de investigación, y definir una serie de indicadores para su ejecución y control.</p>
 				
           <br />
-
+          <br />
+          <br />
 				<h4><a href="http://191.102.85.226/rqsoft/index.html">RQSOFT </a></h4>
                <a href="http://191.102.85.226/rqsoft/index.html"><img src="images/proyectos/sw/rqsoftV2.png" alt="" class="blog_img img-responsive"/></a>
 				<div class="blog_list">
@@ -125,9 +113,24 @@
 					  </ul>
 				</div>
 				<p class="para">Software para la Elicitación de requerimientos de Desarrollo de Sofwtare</p>
-				
-                          <br />
-
+     	  <br />
+          <br />
+          <br />
+                  <h4><a href="http://191.102.85.226/estacion/index.aspx">Estacion Meteriologica</a></h4>
+               <a href="http://191.102.85.226/estacion/index.aspx"><img src="images/proyectos/sw/Temp.PNG" alt="" class="blog_img img-responsive"/></a>
+				<div class="blog_list">
+					  <ul class="list-unstyled">
+						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
+						<li><a href="#"><i class="fa fa-comment"></i><span>Comments</span></a></li>
+				  		<li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+				  		<li><a href="#"><i class="fa fa-eye"></i><span>124 views</span></a></li>
+					  </ul>
+				</div>
+				<p class="para">La estación meteorológica está ubicada en el laboratorio de GIECOM presente en el bloque II, salón “2112” y captura los valores aproximados de Temperatura (°C), Humedad Relativa (%), Presión Atmosférica (atm), Monóxido de Carbono (ppm) y Altura sobre el nivel del mar (msnm).</p>
+	      <br />
+          <br />
+          <br />
+              
 				<h4 align="justify"><a href="single-page.html">Prototipo de un sistema para la gestión de los procesos electorales de la Universidad de la Amazonia</a></h4>
 				<a href="single-page.html"><img src="images/blog_pic2.jpg" alt="" class="blog_img img-responsive"/></a>
 				<div class="blog_list">
@@ -139,6 +142,66 @@
 					  </ul>
 				</div>
 				<p class="para">Electoral</p>
+
+       
+	      <br />
+          <br />
+          <br />
+                  
+        <h4><a href="http://191.102.85.226/maraton/">Semillero de Programacion</a></h4>
+               <a href="http://191.102.85.226/maraton/"><img src="images/proyectos/sw/sp.PNG" alt="" class="blog_img img-responsive"/></a>
+				<div class="blog_list">
+					  <ul class="list-unstyled">
+						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
+						<li><a href="#"><i class="fa fa-comment"></i><span>Comments</span></a></li>
+				  		<li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+				  		<li><a href="#"><i class="fa fa-eye"></i><span>124 views</span></a></li>
+					  </ul>
+				</div>
+				<p class="para">Plataforma para la gestión de eventos y competencias desarrolladas desde el Semillero de Programación.</p>
+	      <br />
+          <br />
+          <br />
+                        <h4><a href="http://191.102.85.226/congreso/">Congreso TIC</a></h4>
+               <a href="http://191.102.85.226/congreso/"><img src="images/proyectos/sw/congreso.PNG" alt="" class="blog_img img-responsive"/></a>
+				<div class="blog_list">
+					  <ul class="list-unstyled">
+						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
+						<li><a href="#"><i class="fa fa-comment"></i><span>Comments</span></a></li>
+				  		<li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+				  		<li><a href="#"><i class="fa fa-eye"></i><span>124 views</span></a></li>
+					  </ul>
+				</div>
+				<p class="para">Plataforma para la gestión de asistentes al Primer Congreso Internacional TIC para la Amazonia.</p>
+	      <br />
+          <br />
+          <br />
+
+                 <h4><a href="http://191.102.85.226/mdd/">MDD</a></h4>
+               <a href="http://191.102.85.226/mdd/"><img src="images/proyectos/sw/mdd.PNG" alt="" class="blog_img img-responsive"/></a>
+				<div class="blog_list">
+					  <ul class="list-unstyled">
+						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
+						<li><a href="#"><i class="fa fa-comment"></i><span>Comments</span></a></li>
+				  		<li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+				  		<li><a href="#"><i class="fa fa-eye"></i><span>124 views</span></a></li>
+					  </ul>
+				</div>
+				<p class="para">Plataforma para la gestión documental de los Proyectos presentados por los Grupos y Semilleros de la Universidad de la Amazonia, aplicando ISO 9001:2008 bajo MDD</p>
+	      <br />
+          <br />
+          <br />
+              <h4><a href="http://191.102.85.226/visibilidad/actividad">Visibilidad</a></h4>
+               <a href="http://191.102.85.226/visibilidad/actividad"><img src="images/proyectos/sw/visibilidad.PNG" alt="" class="blog_img img-responsive"/></a>
+				<div class="blog_list">
+					  <ul class="list-unstyled">
+						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
+						<li><a href="#"><i class="fa fa-comment"></i><span>Comments</span></a></li>
+				  		<li><a href="#"><i class="fa fa-user"></i><span>Admin</span></a></li>
+				  		<li><a href="#"><i class="fa fa-eye"></i><span>124 views</span></a></li>
+					  </ul>
+				</div>
+				<p class="para">Herramienta tecnológica para la visualización web y gestión de eventos de los Semilleros de Investigación de la Universidad de la Amazonia</p>
 			
 			</div>
 			</div>

@@ -88,10 +88,10 @@
 		<div class="logo navbar-left">
             <br />
             <br />
+             <br />
             <img src="images/logos/LOGO_GIECOM.png" />
 		</div>
 		
-		<div class="clearfix"></div>
 	</div>
 	<div class="row h_menu">
 		<nav class="navbar navbar-default navbar-left" role="navigation">
@@ -174,25 +174,25 @@
 				<span class="bg"><i class="fa fa-globe"></i></span>
 				<h4><a href="#">Generar soluciones</a></h4>
 				<p class="para" align="justify">Problemáticas presentadas en nuestra región a través de metodologías de Gestión del Conocimiento tales como: Algoritmos Genéticos, Lógica Difusa, Redes Neuronales, entre otros.</p>
-				<a href="single-page.html" class="fa-btn btn-1 btn-1e">leer mas</a>
+				
 			</div>
 			<div class="col-md-3 images_1_of_4 bg1 text-center">
 				<span class="bg"><i class="fa fa-laptop"></i></span>
 				<h4><a href="#">Crear un espacio de investigación</a></h4>
 				<p class="para" align="justify">Discusión y difusión de los avances obtenidos con el fin de proponer e implementar alternativas de solución a problemas puntuales en ingeniería y diferentes empresas de la región.</p>
-				<a href="single-page.html" class="fa-btn btn-1 btn-1e">leer mas</a>
+		
 			</div>
 			<div class="col-md-3 images_1_of_4 bg1 text-center">
 				<span class="bg"><i class="fa fa-cog"></i></span>
 				<h4><a href="#">Promover la investigación</a></h4>
 				<p class="para" align="justify">Científica y tecnológica en la Amazonía con el propósito de aumentar y mantener considerablemente el progreso en nuestra región, destacándola como una de las más importantes en Colombia y Latino América.</p>
-				<a href="single-page.html" class="fa-btn btn-1 btn-1e">leer mas</a>
+				
 			</div>		
 			<div class="col-md-3 images_1_of_4 bg1 text-center">
 				<span class="bg"><i class="fa fa-shield"></i> </span>
 				<h4><a href="#">Desarrollar proyectos</a></h4>
 				<p class="para" align="justify">De investigacion interdisciplinarios basados en el diseño de sistemas exactos, rápidos y robustos, para el tratamiento de la información asociada a tareas computacionales complejas.</p>
-				<a href="single-page.html" class="fa-btn btn-1 btn-1e">leer mas</a>
+				
 			</div>	
 		</div>
 	</div>
@@ -206,7 +206,7 @@
                </div>
                 <div class="col-md-6 content_right">
                     <h4>¿QUIÉNES SOMOS?</h4>
-                    <p class="para" align="justify">La fecha de creacion del grupo de investigacion fue en el Año 2007, por el cual se adquirio unas unidades Académicas a la facultad de Ingeniería y su programa Ingeniería de Sistemas. Sus Líneas de Investigación estan bien definidas como son la Inteligencia Artificial y el Desarrollo de Software.</p>
+                    <p class="para" align="justify">La fecha de creacion del grupo de investigacion fue en el Año 2007, por el cual se adquirio unas unidades Académicas a la facultad de Ingeniería y su programa Ingeniería de Sistemas. Sus Líneas de Investigación estan bien definidas como son la Inteligencia Artificial, el Desarrollo de Software y en el área de control.</p>
                 </div>
             </div>
 			
@@ -216,7 +216,7 @@
 	<div class="container">
 		<div class="row  footer">
 			<div class="copy text-center">
-				<p class="link"><span>&#169; All rights reserved | Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
+	               	<p class="link"><span>&#169; 2017 | Giecom - Universidad de la Amazonia. Todos los derechos reservados. Equipo de Desarrollo de Software| Design by&nbsp;<a href="https://github.com/mateocles"> Mateocles</a></span></p>
 			</div>
 		</div>
 	</div>
