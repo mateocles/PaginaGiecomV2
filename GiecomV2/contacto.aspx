@@ -8,6 +8,16 @@
     <title>Contacto</title>
      <link rel="icon" href="images/logos/LOGO_GIECOM.png" />  
 </head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109645852-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109645852-1');
+</script>
 <body>
     <form id="form1" runat="server">
     <div>
