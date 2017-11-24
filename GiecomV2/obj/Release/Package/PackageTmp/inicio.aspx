@@ -6,8 +6,18 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>GIECOM | Inicio</title>    
-    <link rel="icon" href="images/logos/LOGO_GIECOM.png" />  
+    <link rel="icon" href="http://191.102.85.226/mateocles/images/logos/LOGO_GIECOM.png" />  
 </head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109645852-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109645852-1');
+</script>
 <body>
      <form id="form1" runat="server">
 
@@ -21,31 +31,31 @@
 
 
     
-    <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
-<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link href="mateocles/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+<link href="mateocles/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
  <!--[if lt IE 9]>
      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="mateocles/css/style.css" rel="stylesheet" type="text/css" media="all" />
 
 
 
 <!-- start plugins -->
-<script type="text/javascript" src="js/jquery.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script src="js/jquery-1.5.2.min.js" type="text/javascript"></script>
-<script src="js/jcarousellite_1.0.1c5.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://191.102.85.226/mateocles/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://191.102.85.226/mateocles/js/bootstrap.js"></script>
+<script type="text/javascript" src="http://191.102.85.226/mateocles/js/bootstrap.min.js"></script>
+<script src="http://191.102.85.226/mateocles/js/jquery-1.5.2.min.js" type="text/javascript"></script>
+<script src="http://191.102.85.226/mateocles/js/jcarousellite_1.0.1c5.js" type="text/javascript"></script>
 
 
 
 <!-- start slider -->
-<link href="css/slider.css" rel="stylesheet" type="text/css" media="all" />
-<script type="text/javascript" src="js/modernizr.custom.28468.js"></script>
-<script type="text/javascript" src="js/jquery.cslider.js"></script>
+<link href="http://191.102.85.226/mateocles/css/slider.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="http://191.102.85.226/mateocles/js/modernizr.custom.28468.js"></script>
+<script type="text/javascript" src="http://191.102.85.226/mateocles/js/jquery.cslider.js"></script>
 	<script type="text/javascript">
 			$(function() {
 
@@ -57,8 +67,8 @@
 			});
 		</script>
 <!-- Owl Carousel Assets -->
-<link href="css/owl.carousel.css" rel="stylesheet">
-<script src="js/owl.carousel.js"></script>
+<link href="http://191.102.85.226/mateocles/css/owl.carousel.css" rel="stylesheet">
+<script src="http://191.102.85.226/mateocles/js/owl.carousel.js"></script>
 		<script>
 			$(document).ready(function() {
 
@@ -78,7 +88,7 @@
 		</script>
 		<!-- //Owl Carousel Assets -->
 <!----font-Awesome----->
-   	<link rel="stylesheet" href="fonts/css/font-awesome.min.css">
+   	<link rel="stylesheet" href="http://191.102.85.226/mateocles/fonts/css/font-awesome.min.css">
 <!----font-Awesome----->
 </head>
 <body>
@@ -89,7 +99,7 @@
             <br />
             <br />
              <br />
-            <img src="images/logos/LOGO_GIECOM.png" />
+            <img src="http://191.102.85.226/mateocles/images/logos/LOGO_GIECOM.png" />
 		</div>
 		
 	</div>
@@ -108,11 +118,11 @@
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      <ul class="nav navbar-nav">
            <li class="active"><a href="inicio.aspx">inicio</a></li>
-		        <li><a href="Proyectos.aspx">Proyectos</a></li>
-              <li><a href="grupo.aspx">Nuestro Equipo</a></li>
-		        <li><a href="acerca.aspx">Acerca de</a></li>
-		        <li><a href="blog.aspx">Noticias</a></li>
-		        <li><a href="contacto.aspx">Contacto</a></li>
+		        <li><a href="http://191.102.85.226/mateocles/Proyectos.aspx">Proyectos</a></li>
+                <li><a href="http://191.102.85.226/mateocles/grupo.aspx">Nuestro Equipo</a></li>
+		        <li><a href="http://191.102.85.226/mateocles/acerca.aspx">Acerca de</a></li>
+		        <li><a href="http://191.102.85.226/mateocles/blog.aspx">Noticias</a></li>
+		        <li><a href="http://191.102.85.226/mateocles/contacto.aspx">Contacto</a></li>
 		      </ul>
 		    </div><!-- /.navbar-collapse -->
 		    <!-- start soc_icons -->
@@ -202,7 +212,7 @@
 		<div class="main row">
             <div class="col-md-6 content_left">
                 	<%--<img src="images/giecom/8.jpg" alt="" class="img-responsive">--%>
-                <img src="images/giecom/ezgif.com-gif-maker (3).gif"  alt="" class="img-responsive" />
+                <img src="http://191.102.85.226/mateocles/images/giecom/ezgif.com-gif-maker (3).gif"  alt="" class="img-responsive" />
                </div>
                 <div class="col-md-6 content_right">
                     <h4>¿QUIÉNES SOMOS?</h4>

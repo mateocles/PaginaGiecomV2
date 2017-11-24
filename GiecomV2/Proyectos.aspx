@@ -59,7 +59,7 @@
 		    <!-- Collect the nav links, forms, and other content for toggling -->
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      <ul class="nav navbar-nav">
-           <li class="active"><a href="inicio.aspx">inicio</a></li>
+           <li class="active"><a href="http://191.102.85.226">inicio</a></li>
 		        <li><a href="Proyectos.aspx">Proyectos</a></li>
               <li><a href="grupo.aspx">Nuestro Equipo</a></li>
 		        <li><a href="acerca.aspx">Acerca de</a></li>
@@ -131,8 +131,8 @@
           <br />
           <br />
               
-				<h4 align="justify"><a href="single-page.html">Prototipo de un sistema para la gestión de los procesos electorales de la Universidad de la Amazonia</a></h4>
-				<a href="single-page.html"><img src="images/blog_pic2.jpg" alt="" class="blog_img img-responsive"/></a>
+				<h4 align="justify"><a href="http://191.102.85.226/Electoralapi/views/inicio.aspx">Prototipo de un sistema para la gestión de los procesos electorales de la Universidad de la Amazonia</a></h4>
+				<a href="http://191.102.85.226/Electoralapi/views/inicio.aspx"><img src="images/blog_pic2.jpg" alt="" class="blog_img img-responsive"/></a>
 				<div class="blog_list">
 					  <ul class="list-unstyled">
 						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>

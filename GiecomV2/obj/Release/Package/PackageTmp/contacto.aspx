@@ -8,6 +8,16 @@
     <title>Contacto</title>
      <link rel="icon" href="images/logos/LOGO_GIECOM.png" />  
 </head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109645852-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109645852-1');
+</script>
 <body>
     <form id="form1" runat="server">
     <div>
@@ -59,7 +69,7 @@
 		    <!-- Collect the nav links, forms, and other content for toggling -->
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      <ul class="nav navbar-nav">
-           <li class="active"><a href="inicio.aspx">inicio</a></li>
+           <li class="active"><a href="http://191.102.85.226">inicio</a></li>
 		        <li><a href="Proyectos.aspx">Proyectos</a></li>
               <li><a href="grupo.aspx">Nuestro Equipo</a></li>
 		        <li><a href="acerca.aspx">Acerca de</a></li>
