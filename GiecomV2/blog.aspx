@@ -89,7 +89,7 @@
                                 <ul class="list-unstyled text-center">
                                     <li><a href="https://twitter.com/giecom_udla?lang=es"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="https://www.facebook.com/GiecomFC/?fref=ts"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href="http://191.102.85.226/mateocles/GC_Views/Login.aspx"><i class="GC_Views/Login.aspx"></i></a></li>
 
                                 </ul>
                             </div>
@@ -104,7 +104,7 @@
                             <div class="col-md-8 blog_left">
                                 <h4><a >Maraton de Programacion 2017 II</a></h4>
                                 <a href="https://www.facebook.com/diana.m.espinosa.5/media_set?set=a.1732450570119721.1073741845.100000643844867&type=3">
-                                    <img href="https://www.facebook.com/diana.m.espinosa.5/media_set?set=a.1732450570119721.1073741845.100000643844867&type=3" src="images/blog_pic1.jpg" alt="" class="blog_img img-responsive" /></a>
+                                    <img href="https://www.facebook.com/diana.m.espinosa.5/media_set?set=a.1732450570119721.1073741845.100000643844867&type=3" src="images/giecom/ezgif.com-gif-maker11221.gif" alt="" class="blog_img img-responsive" /></a>
                                 <div class="blog_list">
                                     <ul class="list-unstyled">
                                         <li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>
@@ -121,8 +121,8 @@
                                 <br>
                                 <br>
                                 <h4><a href="#">Proyecto de extensión social para el manejo de redes sociales con las personas de la tercera edad</a></h4>
-                                <a href=""#">
-                                    <img src="images/blog_pic2.jpg" alt="" class="blog_img img-responsive" /></a>
+                                <a href="#">
+                                    <img src="images/giecom/1213123.gif" alt="" class="blog_img img-responsive" /></a>
                                 <div class="blog_list">
                                     <ul class="list-unstyled">
                                         <li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>

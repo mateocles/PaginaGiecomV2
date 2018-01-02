@@ -118,3 +118,44 @@ F:\GiecomV2\GiecomV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 F:\GiecomV2\GiecomV2\obj\Debug\GiecomV2.csprojResolveAssemblyReference.cache
 F:\GiecomV2\GiecomV2\obj\Debug\GiecomV2.dll
 F:\GiecomV2\GiecomV2\obj\Debug\GiecomV2.pdb
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\obj\Debug\GiecomV2.csprojResolveAssemblyReference.cache
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\obj\Debug\GiecomV2.dll
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\obj\Debug\GiecomV2.pdb
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\csc.exe
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\vbc.exe
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\VBCSCompiler.exe
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\GiecomV2.dll.config
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\GiecomV2.dll
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\GiecomV2.pdb
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GiecomAdministrador\Documents\MEMORIA MATEO\GiecomV2\GiecomV2\bin\MySql.Data.dll
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\csc.exe
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\System.Collections.Immutable.dll
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\System.Reflection.Metadata.dll
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\vbc.exe
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\VBCSCompiler.exe
+G:\ultima version\GiecomV2\GiecomV2\bin\roslyn\VBCSCompiler.exe.config
+G:\ultima version\GiecomV2\GiecomV2\bin\GiecomV2.dll.config
+G:\ultima version\GiecomV2\GiecomV2\bin\GiecomV2.dll
+G:\ultima version\GiecomV2\GiecomV2\bin\GiecomV2.pdb
+G:\ultima version\GiecomV2\GiecomV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ultima version\GiecomV2\GiecomV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ultima version\GiecomV2\GiecomV2\obj\Debug\GiecomV2.csprojResolveAssemblyReference.cache
+G:\ultima version\GiecomV2\GiecomV2\obj\Debug\GiecomV2.dll
+G:\ultima version\GiecomV2\GiecomV2\obj\Debug\GiecomV2.pdb

@@ -1,0 +1,9 @@
+G:\ultima version\GiecomV2\Entidades\bin\Release\Entidades.dll
+G:\ultima version\GiecomV2\Entidades\bin\Release\Entidades.pdb
+G:\ultima version\GiecomV2\Entidades\bin\Release\Conexion.dll
+G:\ultima version\GiecomV2\Entidades\bin\Release\MySql.Data.dll
+G:\ultima version\GiecomV2\Entidades\bin\Release\Conexion.pdb
+G:\ultima version\GiecomV2\Entidades\bin\Release\MySql.Data.xml
+G:\ultima version\GiecomV2\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+G:\ultima version\GiecomV2\Entidades\obj\Release\Entidades.dll
+G:\ultima version\GiecomV2\Entidades\obj\Release\Entidades.pdb

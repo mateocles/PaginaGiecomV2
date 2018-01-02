@@ -1,0 +1,7 @@
+G:\ultima version\GiecomV2\Conexion\bin\Release\Conexion.dll
+G:\ultima version\GiecomV2\Conexion\bin\Release\Conexion.pdb
+G:\ultima version\GiecomV2\Conexion\bin\Release\MySql.Data.dll
+G:\ultima version\GiecomV2\Conexion\bin\Release\MySql.Data.xml
+G:\ultima version\GiecomV2\Conexion\obj\Release\Conexion.csprojResolveAssemblyReference.cache
+G:\ultima version\GiecomV2\Conexion\obj\Release\Conexion.dll
+G:\ultima version\GiecomV2\Conexion\obj\Release\Conexion.pdb

@@ -31,15 +31,15 @@
 
 
     
-    <link href="mateocles/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
-<link href="mateocles/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link href="http://191.102.85.226/mateocles/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+<link href="http://191.102.85.226/mateocles/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
  <!--[if lt IE 9]>
      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
-<link href="mateocles/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://191.102.85.226/mateocles/css/style.css" rel="stylesheet" type="text/css" media="all" />
 
 
 
@@ -117,7 +117,7 @@
 		    <!-- Collect the nav links, forms, and other content for toggling -->
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      <ul class="nav navbar-nav">
-           <li class="active"><a href="inicio.aspx">inicio</a></li>
+           <li class="active"><a href="http://191.102.85.226">inicio</a></li>
 		        <li><a href="http://191.102.85.226/mateocles/Proyectos.aspx">Proyectos</a></li>
                 <li><a href="http://191.102.85.226/mateocles/grupo.aspx">Nuestro Equipo</a></li>
 		        <li><a href="http://191.102.85.226/mateocles/acerca.aspx">Acerca de</a></li>
@@ -131,7 +131,7 @@
 			<ul class="list-unstyled text-center">
 				<li><a href="https://twitter.com/giecom_udla?lang=es"><i class="fa fa-twitter"></i></a></li>
 				<li><a href="https://www.facebook.com/GiecomFC/?fref=ts"><i class="fa fa-facebook"></i></a></li>
-				<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+				<li><a href="http://191.102.85.226/mateocles/GC_Views/Login.aspx"><i class="fa fa-sign-in"></i></a></li>
 			
 			</ul>	
 		</div>
@@ -145,9 +145,9 @@
 <div class="container">
 	<div class="row header">
 		<div class="logo navbar-left">
-			<h1><a href="inicio.aspx">GIECOM | Grupo de investigacion</a></h1>
+			<h1><a href="inicio.aspx">GIECOM - Grupo de investigacion</a></h1>
               <h4>Gestión del Conocimiento, Informática, Electrónica y Comunicaciones.</h4>
-                      
+          
 		</div>
 		<div class="clearfix"></div>
 	</div>
@@ -231,6 +231,11 @@
 		</div>
 	</div>
 </div>
+      <center>
+  <div id="sfcyb2tu68bccdaj9xk4qmpbycm4dadyc43"></div>
+<script type="text/javascript" src="https://counter2.freecounter.ovh/private/counter.js?c=yb2tu68bccdaj9xk4qmpbycm4dadyc43&down=async" async></script>
+<noscript><a href="https://www.contadorvisitasgratis.com" title="contador de visitas para web"><img src="https://counter2.freecounter.ovh/private/contadorvisitasgratis.php?c=yb2tu68bccdaj9xk4qmpbycm4dadyc43" border="0" title="contador de visitas para web" alt="contador de visitas para web"></a></noscript>
+      </center>
 </body>
 </html>
     </div>

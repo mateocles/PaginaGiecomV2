@@ -73,7 +73,7 @@
 			<ul class="list-unstyled text-center">
 				<li><a href="https://twitter.com/giecom_udla?lang=es"><i class="fa fa-twitter"></i></a></li>
 				<li><a href="https://www.facebook.com/GiecomFC/?fref=ts"><i class="fa fa-facebook"></i></a></li>
-				<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+				<li><a href="http://191.102.85.226/mateocles/GC_Views/Login.aspx"><i class="fa fa-sign-in"></i></a></li>
 			
 			</ul>	
 		</div>
@@ -131,8 +131,8 @@
           <br />
           <br />
               
-				<h4 align="justify"><a href="single-page.html">Prototipo de un sistema para la gestión de los procesos electorales de la Universidad de la Amazonia</a></h4>
-				<a href="single-page.html"><img src="images/blog_pic2.jpg" alt="" class="blog_img img-responsive"/></a>
+				<h4 align="justify"><a href="http://191.102.85.226/Electoralapi/views/inicio.aspx">Prototipo de un sistema para la gestión de los procesos electorales de la Universidad de la Amazonia</a></h4>
+				<a href="http://191.102.85.226/Electoralapi/views/inicio.aspx"><img src="images/blog_pic2.jpg" alt="" class="blog_img img-responsive"/></a>
 				<div class="blog_list">
 					  <ul class="list-unstyled">
 						<li><i class="fa fa-calendar-o"></i><span>June 3, 2013</span></li>

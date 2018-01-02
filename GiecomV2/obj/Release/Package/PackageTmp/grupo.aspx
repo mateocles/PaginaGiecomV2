@@ -108,7 +108,7 @@
 			<ul class="list-unstyled text-center">
 				<li><a href="https://twitter.com/giecom_udla?lang=es"><i class="fa fa-twitter"></i></a></li>
 				<li><a href="https://www.facebook.com/GiecomFC/?fref=ts"><i class="fa fa-facebook"></i></a></li>
-				<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+				<li><a href="http://191.102.85.226/mateocles/GC_Views/Login.aspx"><i class="fa fa-sign-in"></i></a></li>
 			
 			</ul>	
 		</div>
@@ -346,7 +346,7 @@
 								</p>
 							</div>
 						</div>
-                        <div class="item">
+                    <%--    <div class="item">
 							<div class="cau_left">
 								<img class="lazyOwl" data-src="images/giecom/Grupo/Yilver.jpg" alt="Lazy Owl Image">
 							</div>
@@ -356,7 +356,7 @@
 
 								</p>
 							</div>
-						</div>
+						</div>--%>
 					</div>
 					<!----//End-img-cursual---->
 	</div>

@@ -11,13 +11,19 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
   </PropertyGroup>
   <ItemGroup>
     <File Include="acerca.aspx">
-      <publishTime>11/23/2017 16:03:33</publishTime>
+      <publishTime>12/21/2017 18:39:14</publishTime>
     </File>
     <File Include="bin/GiecomV2.dll">
-      <publishTime>11/23/2017 16:05:07</publishTime>
+      <publishTime>12/26/2017 20:42:44</publishTime>
+    </File>
+    <File Include="bin/LogicaN.dll">
+      <publishTime>12/26/2017 20:42:24</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>10/02/2015 19:05:26</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>06/18/2015 20:19:46</publishTime>
@@ -56,13 +62,13 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="blog.aspx">
-      <publishTime>11/23/2017 17:10:52</publishTime>
+      <publishTime>12/21/2017 18:39:04</publishTime>
     </File>
     <File Include="contacto.aspx">
-      <publishTime>11/23/2017 16:03:27</publishTime>
+      <publishTime>12/21/2017 18:39:02</publishTime>
     </File>
     <File Include="css/bootstrap.css">
-      <publishTime>03/11/2017 14:42:57</publishTime>
+      <publishTime>11/03/2017 14:42:58</publishTime>
     </File>
     <File Include="css/bootstrap.min.css">
       <publishTime>01/05/2014 00:11:48</publishTime>
@@ -74,22 +80,22 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>03/05/2014 06:35:38</publishTime>
     </File>
     <File Include="css/style.css">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>11/13/2017 16:31:02</publishTime>
     </File>
     <File Include="docs/convocatoria interna 2016.pdf">
-      <publishTime>11/19/2016 23:32:04</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="docs/Guia elaboracion articulos GIECOM.pdf">
-      <publishTime>11/19/2016 23:32:04</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="docs/Presentacion GIECOM.pptx">
-      <publishTime>11/19/2016 23:32:04</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="docs/RegistroGIECOM-v2.docx">
       <publishTime>01/03/2017 11:50:52</publishTime>
     </File>
     <File Include="docs/RegistroGIECOM.docx">
-      <publishTime>02/21/2017 20:39:44</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="fonts/css/font-awesome.css">
       <publishTime>05/11/2013 10:07:14</publishTime>
@@ -196,8 +202,149 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
     <File Include="fonts/texgyreadventor-regular-webfont.ttf">
       <publishTime>10/31/2017 17:31:54</publishTime>
     </File>
+    <File Include="GC_Views/css/style.css">
+      <publishTime>12/20/2017 18:04:34</publishTime>
+    </File>
+    <File Include="GC_Views/Login.aspx">
+      <publishTime>12/26/2017 19:20:46</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/.DS_Store">
+      <publishTime>03/08/2017 13:19:12</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/.DS_Store">
+      <publishTime>03/08/2017 13:16:30</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/css/.DS_Store">
+      <publishTime>03/08/2017 13:16:30</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/css/animate.min.css">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/css/bootstrap.min.css">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/css/demo.css">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/css/paper-dashboard.css">
+      <publishTime>03/08/2017 13:16:00</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/css/themify-icons.css">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/fonts/.DS_Store">
+      <publishTime>03/16/2016 16:02:02</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/fonts/themify.eot">
+      <publishTime>03/04/2016 16:02:20</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/fonts/themify.svg">
+      <publishTime>03/04/2016 16:02:20</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/fonts/themify.ttf">
+      <publishTime>03/04/2016 16:02:22</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/fonts/themify.woff">
+      <publishTime>03/04/2016 16:02:22</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/.DS_Store">
+      <publishTime>07/22/2016 14:57:22</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/apple-icon.png">
+      <publishTime>06/30/2016 16:43:42</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/background.jpg">
+      <publishTime>03/09/2016 17:22:56</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/background/.DS_Store">
+      <publishTime>07/22/2016 14:57:22</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/faces/.DS_Store">
+      <publishTime>03/17/2016 17:28:28</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/faces/face-0.jpg">
+      <publishTime>03/09/2016 17:22:54</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/faces/face-1.jpg">
+      <publishTime>12/01/2015 14:12:00</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/faces/face-2.jpg">
+      <publishTime>03/09/2016 17:22:54</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/faces/face-3.jpg">
+      <publishTime>03/09/2016 17:22:54</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/favicon.png">
+      <publishTime>06/30/2016 16:43:42</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/new_logo.png">
+      <publishTime>12/01/2015 14:12:00</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/tables/.DS_Store">
+      <publishTime>07/22/2016 14:57:22</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/img/tim_80x80.png">
+      <publishTime>12/01/2015 14:12:00</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/js/bootstrap-checkbox-radio.js">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/js/bootstrap-notify.js">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/js/bootstrap.min.js">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/js/chartist.min.js">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/js/demo.js">
+      <publishTime>03/08/2017 13:14:58</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/js/jquery-1.10.2.js">
+      <publishTime>12/01/2015 14:12:00</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/assets/js/paper-dashboard.js">
+      <publishTime>03/08/2017 13:14:36</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/changelog.txt">
+      <publishTime>02/08/2017 18:10:34</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/dashboard.html">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/icons.html">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/maps.html">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/MasterPage1.Master">
+      <publishTime>12/26/2017 20:06:12</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/notifications.html">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/table.html">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/template.html">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/typography.html">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/upgrade.html">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/paper-dashboard-free-v1.1.2/user.html">
+      <publishTime>02/08/2017 17:01:40</publishTime>
+    </File>
+    <File Include="GC_Views/postcss/style.postcss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
     <File Include="grupo.aspx">
-      <publishTime>11/23/2017 17:01:15</publishTime>
+      <publishTime>12/21/2017 18:39:08</publishTime>
     </File>
     <File Include="images/ads_pic.jpg">
       <publishTime>03/05/2014 01:30:46</publishTime>
@@ -262,6 +409,9 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
     <File Include="images/giecom/1.jpg">
       <publishTime>03/03/2017 17:03:32</publishTime>
     </File>
+    <File Include="images/giecom/1213123.gif">
+      <publishTime>11/24/2017 15:12:36</publishTime>
+    </File>
     <File Include="images/giecom/2.jpg">
       <publishTime>11/19/2016 22:37:34</publishTime>
     </File>
@@ -287,52 +437,58 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>01/11/2017 16:51:10</publishTime>
     </File>
     <File Include="images/giecom/DSC_0486.jpg">
-      <publishTime>11/01/2017 16:59:10</publishTime>
+      <publishTime>01/11/2017 16:59:10</publishTime>
     </File>
     <File Include="images/giecom/ezgif.com-gif-maker %283%29.gif">
-      <publishTime>11/05/2017 22:18:32</publishTime>
+      <publishTime>05/11/2017 22:18:34</publishTime>
     </File>
     <File Include="images/giecom/ezgif.com-gif-maker.gif">
-      <publishTime>05/11/2017 14:40:46</publishTime>
+      <publishTime>05/11/2017 14:40:48</publishTime>
+    </File>
+    <File Include="images/giecom/ezgif.com-gif-maker11221.gif">
+      <publishTime>11/24/2017 14:53:16</publishTime>
     </File>
     <File Include="images/giecom/Grupo/Alcalde.jpg">
-      <publishTime>05/11/2017 16:42:47</publishTime>
+      <publishTime>05/11/2017 16:42:48</publishTime>
     </File>
     <File Include="images/giecom/Grupo/angie.jpg">
-      <publishTime>09/11/2017 15:53:21</publishTime>
+      <publishTime>09/11/2017 15:53:22</publishTime>
     </File>
     <File Include="images/giecom/Grupo/cesar.jpg">
-      <publishTime>05/11/2017 16:43:09</publishTime>
+      <publishTime>05/11/2017 16:43:10</publishTime>
     </File>
     <File Include="images/giecom/Grupo/david.jpg">
-      <publishTime>05/11/2017 16:34:25</publishTime>
+      <publishTime>05/11/2017 16:34:26</publishTime>
     </File>
     <File Include="images/giecom/Grupo/dorado.jpg">
-      <publishTime>05/11/2017 16:43:44</publishTime>
+      <publishTime>05/11/2017 16:43:46</publishTime>
     </File>
     <File Include="images/giecom/Grupo/laura.jpg">
-      <publishTime>05/11/2017 16:42:28</publishTime>
+      <publishTime>05/11/2017 16:42:30</publishTime>
     </File>
     <File Include="images/giecom/Grupo/Marx.jpg">
-      <publishTime>09/11/2017 15:55:20</publishTime>
+      <publishTime>09/11/2017 15:55:22</publishTime>
     </File>
     <File Include="images/giecom/Grupo/Mateo.jpg">
-      <publishTime>11/05/2017 22:27:58</publishTime>
+      <publishTime>05/11/2017 22:28:00</publishTime>
     </File>
     <File Include="images/giecom/Grupo/mitch.jpg">
-      <publishTime>05/11/2017 16:44:23</publishTime>
+      <publishTime>05/11/2017 16:44:24</publishTime>
     </File>
     <File Include="images/giecom/Grupo/nicol.jpg">
-      <publishTime>11/05/2017 21:33:59</publishTime>
+      <publishTime>05/11/2017 21:34:00</publishTime>
     </File>
     <File Include="images/giecom/Grupo/pato.jpg">
-      <publishTime>05/11/2017 16:44:05</publishTime>
+      <publishTime>05/11/2017 16:44:06</publishTime>
     </File>
     <File Include="images/giecom/Grupo/Yilver.jpg">
-      <publishTime>09/11/2017 15:58:59</publishTime>
+      <publishTime>09/11/2017 15:59:00</publishTime>
     </File>
     <File Include="images/giecom/Grupo/yuddy.jpg">
-      <publishTime>11/05/2017 21:34:15</publishTime>
+      <publishTime>05/11/2017 21:34:16</publishTime>
+    </File>
+    <File Include="images/image2 %281%29.JPG">
+      <publishTime>12/26/2017 19:32:04</publishTime>
     </File>
     <File Include="images/logos/giecom.png">
       <publishTime>11/19/2016 13:52:08</publishTime>
@@ -425,13 +581,13 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>11/19/2016 18:22:56</publishTime>
     </File>
     <File Include="images/proyectos/sw/rqsoftV2.png">
-      <publishTime>09/11/2017 17:20:33</publishTime>
+      <publishTime>09/11/2017 17:20:34</publishTime>
     </File>
     <File Include="images/proyectos/sw/sigepi.JPG">
       <publishTime>06/16/2017 13:16:54</publishTime>
     </File>
     <File Include="images/proyectos/sw/sp.PNG">
-      <publishTime>11/13/2017 18:58:22</publishTime>
+      <publishTime>11/13/2017 18:58:24</publishTime>
     </File>
     <File Include="images/proyectos/sw/Temp.PNG">
       <publishTime>04/21/2017 22:41:12</publishTime>
@@ -467,7 +623,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>03/05/2014 00:48:58</publishTime>
     </File>
     <File Include="inicio.aspx">
-      <publishTime>11/23/2017 15:55:35</publishTime>
+      <publishTime>12/21/2017 18:39:10</publishTime>
     </File>
     <File Include="js/bootstrap.js">
       <publishTime>01/05/2014 00:10:38</publishTime>
@@ -476,7 +632,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>01/05/2014 00:10:48</publishTime>
     </File>
     <File Include="js/jcarousellite_1.0.1c5.js">
-      <publishTime>05/11/2017 13:23:58</publishTime>
+      <publishTime>11/05/2017 13:24:00</publishTime>
     </File>
     <File Include="js/jquery-1.5.2.min.js">
       <publishTime>12/04/2011 21:14:56</publishTime>
@@ -497,13 +653,13 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>10/29/2017 15:13:40</publishTime>
     </File>
     <File Include="Proyectos.aspx">
-      <publishTime>11/23/2017 17:25:50</publishTime>
+      <publishTime>12/21/2017 18:38:58</publishTime>
     </File>
     <File Include="single-page.html">
       <publishTime>10/29/2017 22:57:02</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/23/2017 16:06:05</publishTime>
+      <publishTime>12/21/2017 18:10:58</publishTime>
     </File>
   </ItemGroup>
 </Project>

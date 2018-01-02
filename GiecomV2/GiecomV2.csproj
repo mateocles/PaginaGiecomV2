@@ -48,6 +48,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -86,12 +87,83 @@
     <Content Include="fonts\less\spinning.less" />
     <Content Include="fonts\less\stacked.less" />
     <Content Include="fonts\less\variables.less" />
+    <Content Include="GC_Views\css\style.css" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\css\animate.min.css" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\css\bootstrap.min.css" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\css\demo.css" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\css\paper-dashboard.css" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\css\themify-icons.css" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\fonts\themify.svg" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\apple-icon.png" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\background.jpg" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\faces\face-0.jpg" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\faces\face-1.jpg" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\faces\face-2.jpg" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\faces\face-3.jpg" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\favicon.png" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\new_logo.png" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\tim_80x80.png" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\js\bootstrap-checkbox-radio.js" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\js\bootstrap-notify.js" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\js\bootstrap.min.js" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\js\chartist.min.js" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\js\demo.js" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\js\jquery-1.10.2.js" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\js\paper-dashboard.js" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\changelog.txt" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\dashboard.html" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\documentation\css\documentation.css" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\documentation\documentation.html" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\icons.html" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\maps.html" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\notifications.html" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\table.html" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\template.html" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\typography.html" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\upgrade.html" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\user.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._changelog.txt" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._dashboard.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._icons.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._maps.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._notifications.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._table.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._template.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._typography.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._upgrade.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._user.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\css\._animate.min.css" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\css\._bootstrap.min.css" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\css\._demo.css" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\css\._paper-dashboard.css" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\css\._themify-icons.css" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\fonts\._themify.svg" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\._apple-icon.png" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\._background.jpg" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\._favicon.png" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\._new_logo.png" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\._tim_80x80.png" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\faces\._face-0.jpg" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\faces\._face-1.jpg" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\faces\._face-2.jpg" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\faces\._face-3.jpg" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\js\._bootstrap-checkbox-radio.js" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\js\._bootstrap-notify.js" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\js\._bootstrap.min.js" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\js\._chartist.min.js" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\js\._demo.js" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\js\._jquery-1.10.2.js" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\js\._paper-dashboard.js" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\documentation\._documentation.html" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\documentation\css\._documentation.css" />
     <Content Include="grupo.aspx" />
     <Content Include="images\banner1.JPG" />
+    <Content Include="images\giecom\1213123.gif" />
     <Content Include="images\giecom\DSC_0480.jpg" />
     <Content Include="images\giecom\DSC_0486.jpg" />
     <Content Include="images\giecom\ezgif.com-gif-maker %283%29.gif" />
     <Content Include="images\giecom\ezgif.com-gif-maker.gif" />
+    <Content Include="images\giecom\ezgif.com-gif-maker11221.gif" />
     <Content Include="images\giecom\Grupo\Alcalde.jpg" />
     <Content Include="images\giecom\Grupo\angie.jpg" />
     <Content Include="images\giecom\Grupo\cesar.jpg" />
@@ -105,6 +177,7 @@
     <Content Include="images\giecom\Grupo\pato.jpg" />
     <Content Include="images\giecom\Grupo\Yilver.jpg" />
     <Content Include="images\giecom\Grupo\yuddy.jpg" />
+    <Content Include="images\image2 %281%29.JPG" />
     <Content Include="images\proyectos\sw\rqsoftV2.png" />
     <Content Include="images\slidebox_next.png" />
     <Content Include="images\slidebox_next_hover.png" />
@@ -168,6 +241,7 @@
     <Content Include="inicio.aspx" />
     <Content Include="js\jcarousellite_1.0.1c5.js" />
     <Content Include="js\jquery-1.5.2.min.js" />
+    <Content Include="GC_Views\Login.aspx" />
     <Content Include="packages.config" />
     <Content Include="fonts\fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fonts\FontAwesome.otf" />
@@ -192,6 +266,108 @@
     <Content Include="docs\RegistroGIECOM.docx" />
     <Content Include="fonts\OpenSans-Regular-webfont.ttf" />
     <Content Include="fonts\texgyreadventor-regular-webfont.ttf" />
+    <Content Include="GC_Views\postcss\style.postcss" />
+    <Content Include="GC_Views\__MACOSX\._paper-dashboard-free-v1.1.2" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._assets" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\._documentation" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\._css" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\._fonts" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\._img" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\._js" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\._sass" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\css\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\fonts\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\fonts\._themify.eot" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\fonts\._themify.ttf" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\fonts\._themify.woff" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\._background" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\._faces" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\._tables" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\background\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\faces\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\img\tables\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\js\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\._paper" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\._paper-dashboard.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\._mixins" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__alerts.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__buttons.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__cards.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__chartist.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__checkbox-radio.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__dropdown.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__footers.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__inputs.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__misc.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__mixins.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__navbars.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__responsive.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__sidebar-and-main-panel.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__tables.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__typography.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\.__variables.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__buttons.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__cards.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__chartist.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__icons.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__inputs.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__labels.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__navbars.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__sidebar.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__tabs.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__transparency.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\.__vendor-prefixes.scss" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\documentation\._.DS_Store" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\documentation\._css" />
+    <Content Include="GC_Views\__MACOSX\paper-dashboard-free-v1.1.2\documentation\css\._.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\css\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\fonts\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\fonts\themify.eot" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\fonts\themify.ttf" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\fonts\themify.woff" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\background\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\faces\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\img\tables\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\js\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper-dashboard.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_buttons.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_cards.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_chartist.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_icons.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_inputs.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_labels.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_navbars.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_sidebar.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_tabs.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_transparency.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\mixins\_vendor-prefixes.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_alerts.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_buttons.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_cards.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_chartist.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_checkbox-radio.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_dropdown.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_footers.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_inputs.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_misc.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_mixins.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_navbars.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_responsive.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_sidebar-and-main-panel.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_tables.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_typography.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\assets\sass\paper\_variables.scss" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\documentation\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\documentation\css\.DS_Store" />
+    <Content Include="GC_Views\paper-dashboard-free-v1.1.2\MasterPage1.Master" />
     <None Include="Properties\PublishProfiles\t.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -252,6 +428,13 @@
     <Compile Include="contacto.aspx.designer.cs">
       <DependentUpon>contacto.aspx</DependentUpon>
     </Compile>
+    <Compile Include="GC_Views\paper-dashboard-free-v1.1.2\MasterPage1.Master.cs">
+      <DependentUpon>MasterPage1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GC_Views\paper-dashboard-free-v1.1.2\MasterPage1.Master.designer.cs">
+      <DependentUpon>MasterPage1.Master</DependentUpon>
+    </Compile>
     <Compile Include="grupo.aspx.cs">
       <DependentUpon>grupo.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -265,6 +448,13 @@
     </Compile>
     <Compile Include="inicio.aspx.designer.cs">
       <DependentUpon>inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GC_Views\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GC_Views\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
     <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
@@ -281,6 +471,12 @@
   <ItemGroup>
     <Folder Include="images\proyectos\hw\" />
     <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LogicaN\LogicaN.csproj">
+      <Project>{8b9c49ab-b875-4b81-9db9-35a0960bf8d2}</Project>
+      <Name>LogicaN</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
